@@ -1,11 +1,13 @@
-header h1{
+header h1 {
     text-align: center;
     color: aqua
 }
-body{
+
+body {
     background-image: url(star.jpg);
-    color: aqua;
+    color: yellow
 }
-p{
+
+p {
     text-align: center;
 }
